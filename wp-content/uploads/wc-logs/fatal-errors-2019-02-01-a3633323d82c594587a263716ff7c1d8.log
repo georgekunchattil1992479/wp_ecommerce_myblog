@@ -1,0 +1,6 @@
+2019-02-01T15:48:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\Installed\xampp\htdocs\wp_ecommerce_myblog\wp-includes\widgets\class-wp-widget-search.php on line 17
+
+2019-02-01T15:48:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\Installed\xampp\htdocs\wp_ecommerce_myblog\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-02-01T16:47:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\Installed\xampp\htdocs\wp_ecommerce_myblog\wp-content\plugins\woocommerce-services\classes\class-wc-connect-help-view.php on line 3
+
