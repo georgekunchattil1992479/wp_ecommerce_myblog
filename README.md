@@ -1,1 +1,1 @@
-"# wp_ecommerce_myblog" 
+#ecommerce_myblog
